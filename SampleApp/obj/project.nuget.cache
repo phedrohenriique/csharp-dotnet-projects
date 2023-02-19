@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "fItgi/nJUUUmIn/SS9ULGxR6QTmoz9+ROL7QOEncx7PgJDwfBVtqIp4krR80j+B8UWry4JmHOc4FsO7c1RDUMg==",
+  "success": true,
+  "projectFilePath": "/home/phenn/Desktop/Projects/csharp-dotnet-projects/SampleApp/SampleApp.csproj",
+  "expectedPackageFiles": [
+    "/home/phenn/.nuget/packages/opentk/4.7.5/opentk.4.7.5.nupkg.sha512",
+    "/home/phenn/.nuget/packages/opentk.compute/4.7.5/opentk.compute.4.7.5.nupkg.sha512",
+    "/home/phenn/.nuget/packages/opentk.core/4.7.5/opentk.core.4.7.5.nupkg.sha512",
+    "/home/phenn/.nuget/packages/opentk.graphics/4.7.5/opentk.graphics.4.7.5.nupkg.sha512",
+    "/home/phenn/.nuget/packages/opentk.input/4.7.5/opentk.input.4.7.5.nupkg.sha512",
+    "/home/phenn/.nuget/packages/opentk.mathematics/4.7.5/opentk.mathematics.4.7.5.nupkg.sha512",
+    "/home/phenn/.nuget/packages/opentk.openal/4.7.5/opentk.openal.4.7.5.nupkg.sha512",
+    "/home/phenn/.nuget/packages/opentk.redist.glfw/3.3.8.30/opentk.redist.glfw.3.3.8.30.nupkg.sha512",
+    "/home/phenn/.nuget/packages/opentk.windowing.common/4.7.5/opentk.windowing.common.4.7.5.nupkg.sha512",
+    "/home/phenn/.nuget/packages/opentk.windowing.desktop/4.7.5/opentk.windowing.desktop.4.7.5.nupkg.sha512",
+    "/home/phenn/.nuget/packages/opentk.windowing.graphicslibraryframework/4.7.5/opentk.windowing.graphicslibraryframework.4.7.5.nupkg.sha512",
+    "/home/phenn/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
