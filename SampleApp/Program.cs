@@ -6,6 +6,7 @@ using OpenTK.Windowing.GraphicsLibraryFramework;
 
 namespace Program
 {
+
     class Window : GameWindow
     {
         public Window(
